@@ -55,7 +55,3 @@ To run the analysis, you need the following:
 ## Conclusion
 
 This project showcases the ability to analyze sales data using SQL queries and visualize the results with Python. It highlights key skills in data analysis, SQL, and data visualization.
-
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
